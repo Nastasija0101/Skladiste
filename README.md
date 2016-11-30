@@ -1,0 +1,2 @@
+# Skladiste
+Magacin ideja
